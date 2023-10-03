@@ -160,12 +160,13 @@ cython_debug/
 #.idea/
 
 # Data
-.csv/
-.xlsx/
-.xls/
-.zip/
-.gzip
-.feather/
-.geofeather/
-.parquet/
-.geoparquet/
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.gzip
+*.feather
+*.geofeather
+*.parquet
+*.geoparquet
+data/
